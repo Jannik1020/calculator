@@ -1,0 +1,12 @@
+#display-wrapper{
+    grid-area: display;
+    background: #333333EE;
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    padding-right: 1rem;
+
+    #display {
+        font-size: 2.5rem;
+    }
+}

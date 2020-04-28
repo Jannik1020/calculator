@@ -1,0 +1,26 @@
+.number{
+    background: #070707EE;
+    
+}
+
+#zero {
+    grid-area: zero;
+}
+
+#decimal {
+    grid-area: decimal;
+}
+
+.operation{
+    background: #141414EE;
+}
+
+#equals {
+    grid-area: equals; 
+    background: #134369EE;
+}
+
+#clear{
+    grid-area: clear;
+    background: #141414EE;
+}
