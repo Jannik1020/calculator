@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/jannik1020.github.io/calculator/static/css/main.e5721466.chunk.css",
-    "main.js": "/jannik1020.github.io/calculator/static/js/main.fd1326ee.chunk.js",
-    "main.js.map": "/jannik1020.github.io/calculator/static/js/main.fd1326ee.chunk.js.map",
-    "runtime-main.js": "/jannik1020.github.io/calculator/static/js/runtime-main.1afdf33a.js",
-    "runtime-main.js.map": "/jannik1020.github.io/calculator/static/js/runtime-main.1afdf33a.js.map",
-    "static/js/2.8a35304c.chunk.js": "/jannik1020.github.io/calculator/static/js/2.8a35304c.chunk.js",
-    "static/js/2.8a35304c.chunk.js.map": "/jannik1020.github.io/calculator/static/js/2.8a35304c.chunk.js.map",
-    "index.html": "/jannik1020.github.io/calculator/index.html",
-    "precache-manifest.9589893ef4d3687fef521748989cc21e.js": "/jannik1020.github.io/calculator/precache-manifest.9589893ef4d3687fef521748989cc21e.js",
-    "service-worker.js": "/jannik1020.github.io/calculator/service-worker.js",
-    "static/css/main.e5721466.chunk.css.map": "/jannik1020.github.io/calculator/static/css/main.e5721466.chunk.css.map",
-    "static/js/2.8a35304c.chunk.js.LICENSE.txt": "/jannik1020.github.io/calculator/static/js/2.8a35304c.chunk.js.LICENSE.txt"
+    "main.css": "/calculator/static/css/main.e5721466.chunk.css",
+    "main.js": "/calculator/static/js/main.955e6724.chunk.js",
+    "main.js.map": "/calculator/static/js/main.955e6724.chunk.js.map",
+    "runtime-main.js": "/calculator/static/js/runtime-main.a1af8741.js",
+    "runtime-main.js.map": "/calculator/static/js/runtime-main.a1af8741.js.map",
+    "static/js/2.8a35304c.chunk.js": "/calculator/static/js/2.8a35304c.chunk.js",
+    "static/js/2.8a35304c.chunk.js.map": "/calculator/static/js/2.8a35304c.chunk.js.map",
+    "index.html": "/calculator/index.html",
+    "precache-manifest.0041049b6c5c4577f1465aecbee4b272.js": "/calculator/precache-manifest.0041049b6c5c4577f1465aecbee4b272.js",
+    "service-worker.js": "/calculator/service-worker.js",
+    "static/css/main.e5721466.chunk.css.map": "/calculator/static/css/main.e5721466.chunk.css.map",
+    "static/js/2.8a35304c.chunk.js.LICENSE.txt": "/calculator/static/js/2.8a35304c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.1afdf33a.js",
+    "static/js/runtime-main.a1af8741.js",
     "static/js/2.8a35304c.chunk.js",
     "static/css/main.e5721466.chunk.css",
-    "static/js/main.fd1326ee.chunk.js"
+    "static/js/main.955e6724.chunk.js"
   ]
 }
