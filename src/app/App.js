@@ -7,12 +7,9 @@ import CalculatorContainer from "./main/components/Calculator/CalculatorContaine
 
 function App() {
   return (
-    <Router>
       <div>
-        <Route exact path="/" component={CalculatorContainer}/>
-        <Route path="/calc" component={CalculatorContainer}/>
+        <CalculatorContainer />
       </div>
-    </Router>
   );
 }
 
